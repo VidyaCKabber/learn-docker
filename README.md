@@ -7,6 +7,6 @@ https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your
 commands
 cd <local_path_to_your_repo>
 
-docker logic
+docker login
 
 docker push <username>/<repo_name>
