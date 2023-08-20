@@ -6,5 +6,7 @@ https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your
 # How to push your image to docker repository
 commands
 cd <local_path_to_your_repo>
+
 docker logic
+
 docker push <username>/<repo_name>
